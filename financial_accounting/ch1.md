@@ -19,7 +19,7 @@ The fundamental equation: **_Assets = Liability + Equity_**
 #### Transactions
 + Making an Equity Investment of X dollars
     + Increase Equity by X and Assets (Cash) by X
-+ Taking a loan fo X dollars
++ Taking a loan of X dollars
     + Increase Liabilities by X and Assets (Cash) by X
 + Buying Equipment or Inventory with Cash
     + Increase Assets (Equipment/Inventory) by X. Decrease Assets (Cash) by X
@@ -57,3 +57,41 @@ Matching Principle - One of the principles behind Accrual Accounting which state
  + Using matching priniciple we must recognize expenses at the same time. Decrease Assets (Inventory) by $400, and Equity by $400.
 + 30 days later Cardullo's recieves payment for $700.
  + Assets: Increase Cash by $700 and Decrease Claim-to-Cash by $700
+
+### 1.2.5 Recieving Payments in Advance
+ + When you recieve a payment in advance you increase cash assets and increase liabilities known as an "obligation of services"
+ + You recognize revenue over time by decreasing obligation of services and increasing equity.
+
+#### Transactions
++ You sell a gift card for $100 dollars
+ + Increase Assets(Cash) by $100 and increase Liability (Obligation of Services) by $100
++ A week later a person comes in and uses $50 dollars of the $100 gift card.
+ + Decrease Liability(Obligation of Services) by $50 and increasing assets 
+
+### 1.2.6 Making Prepayments
++ If you make a pre-payment add an asset called prepaid expense.  This expense is recognized over time as benefit is received. Decrease cash by corresponding amount.
+
+#### Transactions
++ You pay $1000 dollars on May 1 for two months of rent.
+ + Assets: Decrease Cash by $1000 dollars, Increase Prepaid Expense by $1000
++ At then end of the first month
+ + Decrease Assets(Prepaid Expense) by $500 for the first month of occupancy provided.  Decrease Equity by $500 dollars.
+
+## 1.3 Accounting Principles and Rules.
+### 1.3.1 Accounting Principles and Rules
+
+America Standards
+
++ Governing Body: Financial Accounting Standards Board (FASB)
++ Standards: Generally Applied Accounting Principles (GAAP)
+
+International Standards
+
++ Governing Body: International Accounting Standards Board (IASB)
++ Standards: International Financial Reporting Standards (IFRS)
+
+Key Principle: Standards define guidlines and rules so different companies report the same way
+
+## 1.3.2 Conservatism
+
+Conservatism - Accounting should reflect the more cautious estimated valuation rather than the optimistic one.  For assets this means recording the lower valuation while for liabilites it means recording the higher possible valuation.  For revenues and gains it means recording them when they are _reasonably certain_ but for expenses and losses recording them when they are _reasonably possible_.
