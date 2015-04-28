@@ -99,6 +99,7 @@ Conservatism - Accounting should reflect the more cautious estimated valuation r
 ### 1.3.3 Relevance and Reliablity
 
 Information that affects financial statements must have these two qualities
+
 1. Relevant - The inforamtion is useful and capable of influenicng users of the financial statement.
 2. Reliable - The information faithfully represents the underlying economics
  + Valid
