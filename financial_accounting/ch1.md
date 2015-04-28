@@ -37,6 +37,7 @@ When recording transactions we can split them into revenue transactions and expe
 
 ### 1.2.3 Buying on Credit
 + When purchasing on credit record the amount borrowed as a liability called "Accounts Payable"
+
 #### Transactions
 + Buy an X dollars worth of leather on credit
   + Increase Assets (Inventory) by X dollars. Increase Liabilities (Accounts Payable) by X dollars
