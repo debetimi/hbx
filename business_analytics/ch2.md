@@ -71,3 +71,28 @@ Response Rates
  + Phrasing questions neutrally
  + Ensuring that the sampling method is appropriate for the demographic of the target population
  + Pursuing high response rates. It is often better to have a smaller sample with a high response rate than a larger sample with a low response rate.
+
+## 2.3 The Normal Distribution
+### 2.3.1 Rules of Thumb
++ Sample mean is just a single point. We call this a __*point*__ estimate. 
++ Sample mean doesn't give estimate of how accurate it estimates population mean  
+
+Normal/Gaussian Distribution - Probablity distribution centered at the mean
+
+ + To find the percentage of values between a certain range integrate the curve over those values.  Or take the area underneath the curve between those values.
+ + Normal distributions are symetric so the mean is the median. P(< Mean) = 50%
+ + The shape of curve, how flat or narrow it is, is determined by the standard deviation.
+  + narrow: std dev is small so most values are very close to mean.
+  + flat: std dev is large so values are spread out.
+ + P(&mu;-&sigma;&le; x &le;&mu;+&sigma;) &asymp; 68%  
+ + P(&mu;-2&sigma;&le; x &le;&mu;+2&sigma;) &asymp; 95%  
+ + P(&mu;-3&sigma;&le; x &le;&mu;+3&sigma;) &asymp; 99.7%  
+ + You can label x-axis using relative number of &sigma; away from mean using z values. z = (x-&mu;)/&sigma;
+
+## 2.3.2 The Normal Function: NORM.DIST
++ Normal Distribution: `NORM.DIST(x, mean, standard_dev, cumulative)`
+ + cumulative `true` means we want cumulative probabilty till x. `false` means we want the value of probability density or the height at x.
++ Standard Normal Distribution - &mu; = 0, &sigma; = 1; 
+ + `NORM.DIST(x, 0, 1, cumulative)` OR `NORM.S.DIST(z, cumulative)`
+ + z is the z-value we weant to evaluate. We can find z by using `z = STANDARDIZE(x, mean, standard_dev)` 
+ + cumulative `true` means we want cumulative probabilty till x. `false` means we want the value of probability density or the height at x.
