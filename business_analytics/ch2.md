@@ -96,3 +96,43 @@ Normal/Gaussian Distribution - Probablity distribution centered at the mean
  + `NORM.DIST(x, 0, 1, cumulative)` OR `NORM.S.DIST(z, cumulative)`
  + z is the z-value we weant to evaluate. We can find z by using `z = STANDARDIZE(x, mean, standard_dev)` 
  + cumulative `true` means we want cumulative probabilty till x. `false` means we want the value of probability density or the height at x.
+
+## 2.3.3 The Normal Function: NORM.INV 
+
+Sometimes we want to find the value associated with a certain cumulative probabilty.  For example if we wanted to figure out what height was the 80th percentile in a distribution.
+
+To do this we use the excel function `NORM.INV(probabilty, mean, std_dev)` 
+
+
+### 2.3.4 The Central Limit Theorem
+
+If we take many random samples from a population, and plot the means of each samples, the the distribution of the sample means will be a normal curve.  If we take enough random samples then the distribution of the sample means we will be centered at the population mean.  The difference between the distribution of sample means and the population is std deviation.  The &sigma;(distribution) = &sigma;(population)/&radic;n If our sample sizes are larger we will have a much narrower std deviation.
+
++ In practice, we take a single sample we don't take many random samples. But we can use sample without worrying about population because CLT tells us that the distribution of sample means part of a normal distrubution that is centered around the population mean. Meaning if we have significat number of points to allow for a low &sigma; we know we will be close to population mean.
+
+
+## 2.4 Confidence Intervals
+
+### 2.4.1 Estimating the Population Mean
+
+With a normal distribution, we know that if we pick a random point there is 95% chance that the valuation is within 2 standard deviations of the standard deviation.
+
+Applying This to Distribution of Sample Means
+
++ Take a sample and get the mean.  We know from CLT that the distribution of sample means is normal and centered at population mean, so this sample mean has a ninety 95% of being within 2 stdev's of the population. So our _Confidence Interval_ is 95% for +/- two standard deviations from our sample mean.
++ This means 5 percent of samples will **not** have confidence intervals that contain the population mean.
+
+**Confidence Interval** = x&#772; &plusmn; z * s/&radic;n
+
++ z is zalue for desired level of confidence
++ x&#772; is the sample mean
++ s is the sample standard deviation
++ n is the sample size
+
+### 2.4.2 Large Samples
++ Large enough sample size is typically defined as greater than 30 data points.
++ To calculate the confidence norm using excel we can use `CONFIDENCE.NORM(alpha, standard_dev, size)`
+ +  alpha, the significance level, equals one minus the confidence level (for example, a 95% confidence interval would correspond to the significance level 0.05).
+ + standard_dev is the standard deviation of the population distribution. We will typically use the sample standard deviation, s, which is our best estimate of our population’s standard deviation.
+ + size is the sample size, n.
+
