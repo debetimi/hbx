@@ -168,7 +168,7 @@ Guidelines
 ### 2.4 Summary
 #### Confidence Interval Comparisons
 ||Mean(x&#772;)|Proportion(p&#772;)|
-|:--:|:--:|:--:|
-|n < 30 | x&#772;&plusmn;t<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.T(alpha, stdev, size)`|`p +/- CONFIDENCE.T(alpha, stdev,size)`|
-|n &ge; 30 | x&#772;&plusmn;z<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.NORM(alpha, standard_dev, size)`|`p +/- CONFIDENCE.T(alpha, standard_dev,size)`|
+|--|--|--|
+|n < 30 | x&#772; &plusmn; t<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.T(alpha, stdev, size)`|`p +/- CONFIDENCE.T(alpha, stdev,size)`|
+|n &ge; 30 | x&#772; &plusmn; z<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.NORM(alpha, stdev, size)`|`p +/- CONFIDENCE.T(alpha, stdev,size)`|
 
