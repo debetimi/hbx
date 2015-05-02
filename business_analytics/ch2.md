@@ -122,7 +122,7 @@ Applying This to Distribution of Sample Means
 + Take a sample and get the mean.  We know from CLT that the distribution of sample means is normal and centered at population mean, so this sample mean has a ninety 95% of being within 2 stdev's of the population. So our _Confidence Interval_ is 95% for +/- two standard deviations from our sample mean.
 + This means 5 percent of samples will **not** have confidence intervals that contain the population mean.
 
-**Confidence Interval** = x&#772; &plusmn; z * s/&radic;n
+**Confidence Interval** = x&#772; &plusmn; z<sup>s</sup>&frasl;<sub>&radic;n</sub>
 
 + z is zalue for desired level of confidence
 + x&#772; is the sample mean
@@ -135,4 +135,40 @@ Applying This to Distribution of Sample Means
  +  alpha, the significance level, equals one minus the confidence level (for example, a 95% confidence interval would correspond to the significance level 0.05).
  + standard_dev is the standard deviation of the population distribution. We will typically use the sample standard deviation, s, which is our best estimate of our population’s standard deviation.
  + size is the sample size, n.
+
+ ### 2.4.3 Small Samples
+
+If there are fewer than 30 data points then we cannot create _confidence interval_ because central limit theorem may not apply.
+
+If the underlying data point is normal, however, we can construct interval using a modified approach.  Instead of using a z-distribution we can use a t-distribution.  The t-distribution looks similar but is not as tall in the center and has thinker tails.  This reflect that t distribution has a larger standard deviation.
+
+**Confidence Interval T-distribution** = x&#772; &plusmn; t * s/&radic;n
++ In Excel we can use the function `CONFIDENCE.T(alpha, standard_dev, size)`
+ + _Descriptive Statistics_ uses this function for confidence intervals
+
+### 2.4.4. Choosing a Sample Size
+
+Let say we wanted our margin of error to by 1kg/m^2 for our 95% confidence interval.  How do we select n to achieve a given margin of M?
+
+z<sup>&sigma;</sup>&frasl;&radic;n &le; M &rightarrow; n &ge; (z<sup>&sigma;</sup>&frasl;<sub>M</sub>)<sup>2</sup>
+
+However since we usually do not know &sigma;, the population std. dev, we will have to take a preliminary sample and use the sample's standard deviation instead.
+
+n &ge; (z<sup>s</sup>&frasl;<sub>M</sub>)<sup>2</sup>
+
++ For a proportion, the confidence interval can be calculated using p&#772; &plusmn; z * (&radic;p&#772;(1-p&#772;))/&radic;n
+
+#### Verifying Sample size for Low Probability Events
++ Lets say we dealing with something that has very small proportion like ALS which affects between 0.006% and 0.008% of people in US.  How can we sample enough people to have a useful sample?
+
+Guidelines
++ n * p&#772; &ge; 5
++ n(1-p&#772;) &ge; 5
+
+### 2.4 Summary
+#### Confidence Interval Comparisons
+||Mean(x&#772;)|Proportion(p&#772;)|
+|:--:|:--:|:--:|
+|n < 30 | x&#772;&plusmn;t<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.T(alpha, stdev, size)`|`p +/- CONFIDENCE.T(alpha, stdev,size)`|
+|n &ge; 30 | x&#772;&plusmn;z<sup>s</sup>&frasl;<sub>&radic;n</sub><br>`x +/- CONFIDENCE.NORM(alpha, standard_dev, size)`|`p +/- CONFIDENCE.T(alpha, standard_dev,size)`|
 
