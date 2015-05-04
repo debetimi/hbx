@@ -46,6 +46,8 @@ Business are free to determine what accounts they have and what level of detail 
 |Debit | +    | -         | -    | -        | +        |
 |Credit| -    | +         | +    | +        | -        |
 
+NOTE: Revenues and Expenses should be considered subsections of Equity.
+
 **Double Entry Accounting** - A system of accounting that uses both credits and debits. Entries on the left columns are debits and entries on the right column are credits.
 
 ### 2.1.3 Journal Entries
@@ -64,3 +66,44 @@ Example: Cardullo's buys $135 worth of candy bars
 |Date|Accounts|Debit|Credit|
 |:---:|:----|:---|:---|
 |06/01/13|Inventory<br>Cash|$135<br><br>|<br>$135|
+
+### 2.1.4 T-Accounts
+
+T-Accounts are used to show the debit and credit of single account over time. The are used to easily visuals and track the value of a specific account over time.
+
+Example: Utility Expense
+
+||Debit|Credit|
+|:-|:-|:-|
+|Begining Balance | 4250 ||
+|06/03/2013| 900 | |
+|Ending Balance| 3350 ||
+
+
+### 2.1.5 Journal Entries and The Equation
+
+## 2.2 Advanced Journal Entries
+
+### 2.2.1 Accrual Journal Entries
+
+Accrual Accounting - Transactions are recorded in accounting period to which they relate, regardless of when cash is exchanged.
+
+Examples
+On May 1, Tom's purchased 50 lbs of chieck to be used for deli for $100. It paid for chicken on May 20.
+
+|Date|Accounts|Debit|Credit|
+|:--|:--|:--|:--|
+|05/01/14| Inventory | $100 | |
+||Accounts Payable||$100|
+|05/20/14| Cash ||$100|
+|05/20/14| Accounts Payable | $100 ||
+
+### 2.2.2 Revenues and Expenses
+
+Cost of Good Sold - Expense Account for Selling Items
+
+Sales - Revenue Account for Sale of Items
+
+### 2.2.3 Payments Received in Advanced
+
+**Unearned/Defered Revenue** - A liability account associated with an Obligation to Provide Service. As we provide service we decrease this liability (debit) and increase equity (credit)
