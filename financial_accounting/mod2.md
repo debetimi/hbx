@@ -107,3 +107,18 @@ Sales - Revenue Account for Sale of Items
 ### 2.2.3 Payments Received in Advanced
 
 **Unearned/Defered Revenue** - A liability account associated with an Obligation to Provide Service. As we provide service we decrease this liability (debit) and increase equity (credit)
+
+### 2.2.4 Prepayments
+
+Prepayments are recorded as an asset.  The prepayment asset is debited as service is provided, and the corresponding expense account is credited.
+
+
+## 2.3 The Trial Balance
+
+## 2.3.1 Building a Trial Balance
+
+**Trial Balance** - List of all a business's accounts that are balances of the debt and the amount in each account. The total of all the debit balance accounts must equal all of the credit balance account
+
+The balances from all the T-Accounts are listed in the Trial Balance. Expense/Asset accounts will typically have debit balances and Liability/Equity/Revenue accounts will typically have credit balances.
+
+Trial balance - The trial balance gets its name from the idea that it provides a test, or trial, to make sure that total debits are equal to total credits. 
