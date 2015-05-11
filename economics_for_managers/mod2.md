@@ -165,4 +165,37 @@ There are two key elements of conjoint analysis.
     + Pair-wise rankings: First, rather than ask a customer her preference across 27 (or more) different products, the conjoint approach requests a comparison only across two or three offerings at any one time.
     + Infer values from rankings: Second, rather than asking a customer to fill out her dollar value for each feature-combination, in conjoint analysis we don’t even need to ask her that. Instead, we infer the dollar value she might assign to any product based on her rankings.
 
+    + When you create the matrix you assign value a wait, then u add the weight of the row and column.  This is known as the *part-worth*
 
+**Parts Worth** - an implied numeric value that users attach to each feature of a product.
+
+When you create a product add the parts worths to get total utility.
+
+This means that the value selection is VERY important.
+
+### NYT
+When The New York Times ran a conjoint analysis to design their online paywall, they discovered the preference for the "iPad only" version was strong enough that it would draw a lot of readers away from the “print only" version. In other words, an iPad-only offering had the potential to cannibalize print subscription readers. That led to a major decision—one that ultimately impacted the success of the paywall—to bundle a digital subscription with the print subscription. Anyone who bought a print subscription would get digital access for free.
+
+### 2.3.3 Applications of Conjoint Analysis
+
+Segmenting Customers - You can plot preference vs preferences on a chart.
+
+### Summary of Conjoint Analysis
++ It helps you focus on the features that consumers want and focus how you make tradeoffs in product.
+
+## 2.4 Strategies for Increasing Demand
+
+### 2.4.1 Strategy 1: Advertising
+
+You can run ads that highlight the characteristics that were most popular in the conjoint analysis.
+
+100's of Billions are spent on ads every year for
+
+    + Brand Building
+    + Increasing Awareness
+    + Product Information
+    + Brainwashing
+
+Advertising shifts the demand curve out
+
+    + At a giving price, customers should be willing to buy more items than before because now they have more informatin
