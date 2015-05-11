@@ -5,25 +5,29 @@
 # 2.1.2 - Surveys
 
 Surveys have various advantages including
-    + You can get large scale data
-    + Survey a broad pool of people
-    + Elicit aggregate preferences
-    + Cheap
+
++ You can get large scale data
++ Survey a broad pool of people
++ Elicit aggregate preferences
++ Cheap
 
 Problems with Surveys
-    + If answering truthfully means you will pay more, you are likely to lie.
-    + Bad for new or unfamiliar things.
-    + Unrepresentative samples.
+
++ If answering truthfully means you will pay more, you are likely to lie.
++ Bad for new or unfamiliar things.
++ Unrepresentative samples.
 
 # 2.1.3 Focus Groups
 
 Advantages of Focus Group
-    + More focused!
-    + More time to ask follow up questions and correct things.
-    + You get to know WHY of things.
+
++ More focused!
++ More time to ask follow up questions and correct things.
++ You get to know WHY of things.
 
 Disadvantages
-    + Time consuming
+
++ Time consuming
 
 Best market research uses surveys for MACRO trends and focus groups for DETAIL
 
@@ -36,13 +40,15 @@ This module is very important for those working in CPG.
 Introduces competition amongsts buyers and changes incentives to reveal willingness to pay truthfully since ther are consequences for your answers.
 
 Different Auction Types
-    + Open Outcry or English - All bids are public and the highest bidder wins
-    + Vickrey Auction - Named after a Columbia University Professor this type of auction the bids are sealed and the highest bidder pays the price of the second highest bid.
+
++ Open Outcry or English - All bids are public and the highest bidder wins
++ Vickrey Auction - Named after a Columbia University Professor this type of auction the bids are sealed and the highest bidder pays the price of the second highest bid.
 
 # 2.1.5 English and Vickrey Auctions
 
 
 **English Auctions** - English auctions are fairly effective at revealing WTP of all participants except the highest bidder
+
     + With advanced knowledge a seller would start bidding right at the WTP of the eventual winner.
 
 **Vickrey Auctions** - Effectively give you same result as English Auctions ~ sell at 2nd highest WTP.
@@ -56,9 +62,10 @@ Essentially you get the same results as either Vickrey or English.
 **Revenue Equivalence of Auctions** - All forms of auctions return roughly the same revenue.
 
 Example: eBay vs Yahoo Auctions
- + Ebay auction have fixed ending time
- + Yahoo auctions end 5 min after final bid.  Bidders didnt like this system because they couldn't time bidding to their favor since there was no last second bidding.
- + Buyers didnt like using it so fewer sellers used it and it was closed down.
+
++ Ebay auction have fixed ending time
++ Yahoo auctions end 5 min after final bid.  Bidders didnt like this system because they couldn't time bidding to their favor since there was no last second bidding.
++ Buyers didnt like using it so fewer sellers used it and it was closed down.
 
 # 2.1.7 Auctions vs Fixed Price
 
@@ -67,25 +74,28 @@ Tickets Example: Holzman says auctions aren't attractive because of the uncertai
 Fixed Price better when certainty is demanded or there is no time constraint. Think buying househould good like detergent, or cleaning formulas.
 
 If a seller knows WTP well, the will likely set a fixed price. If buyers WTP are far apart then fixed price is better.
-    + Auctions generate more revenue when WTP are relatively close together.
-    + Auctions are good fo old items, where WTP is likely to range and not well known.
+
+ +  Auctions generate more revenue when WTP are relatively close together.
+ + Auctions are good fo old items, where WTP is likely to range and not well known.
 
 
 Ebay: Auctions went from 90%  in 1999 to 20% in 2012 of eBay Transactions.
-    + One hypothesis is mobile and social media led to this decline
-        + People spend less time on mobile sessions.
-        + Ebay used to be a leisure activity that has been replaced with social.
+
+ + One hypothesis is mobile and social media led to this decline
+ + People spend less time on mobile sessions.
+ + Ebay used to be a leisure activity that has been replaced with social.
 
 # 2.1.8 Bidding for Oil
 
  Bidding for tract of land with oil. Neither bidder nor seller knows exact worth of land.
 
  Winner Curse - The winner of an auction tends to overbid. Unless everyone's information is perfect the winner is the most optimistic.
-    + The winner's curse will only occur if the market is for a "Common Value Asset" where the thing you are bidding on is worth about the same to everyone.
 
- One way to avoid the winner's curse is to bid lower than appraiser's estimate.
+ + The winner's curse will only occur if the market is for a "Common Value Asset" where the thing you are bidding on is worth about the same to everyone.
 
- One way to win a bid is to take your original bid and apply a statistical or algebraic model using outside infomration to determine how much to pare down the bid.
+One way to avoid the winner's curse is to bid lower than appraiser's estimate.
+
+One way to win a bid is to take your original bid and apply a statistical or algebraic model using outside infomration to determine how much to pare down the bid.
 
 # 2.1 Summary
 Auctions are usually better for sellers than buyer since buyers are less likely to capture a surplus (win at below market value).
@@ -97,7 +107,8 @@ Auctions are usually better for sellers than buyer since buyers are less likely 
 Instead of asking customers questions using surveys you look at their past actions and histories.  
 
 *Revealed Preference* - Looking at history of consumer that reveals a consumers preferences.
-    + Can use this to infer WTP
+
+ + Can use this to infer WTP
 
 #### Demand Curves and Missing Variables
 When looking at demand curves you need to consider missing variables. For example if you are looking at prices and sales of an item at different stores you have to consider if stores sold out, preventing new customers.
@@ -191,11 +202,53 @@ You can run ads that highlight the characteristics that were most popular in the
 
 100's of Billions are spent on ads every year for
 
-    + Brand Building
-    + Increasing Awareness
-    + Product Information
-    + Brainwashing
+ + Brand Building
+ + Increasing Awareness
+ + Product Information
+ + Brainwashing
 
 Advertising shifts the demand curve out
 
-    + At a giving price, customers should be willing to buy more items than before because now they have more informatin
+ + At a giving price, customers should be willing to buy more items than before because now they have more informatin
+
+
+#### Advertising Elasticity of Demand (AED)
+
+**Advertising Elasticity of Demand* -The percent change in quantity demanded that results from a percent increase in advertising spending.
+
+Some industries, like beer, the AED is 0.  However individual brands have an incentive to advertise because consumers are not particularly loyal.
+
+### 2.4.2 Types of Advertising
+
++ When there is a fixed pool of customer then advertising is a zero sum game.  If ads increase your demand, they will decreases your opponents.
++ Politics is a zero sum game, so there is a strong incentive for negative advertising against competitors.
+
+### 2.4.3 Strategy 2: Complements
+
++ Differentiate yourself from similar offerings.
+
+**Substitute** - If there is a substitute for you product then WTP(A + B) < WTP(A) + WTP(B)
+ + If there is a substitute for your product people are less willing to pay for both products than they are to pay for the sum of the individual products.  Think Cable and Satellite.
+
+**Complements** - WTP(A + B) > WTP(A) + WTP(B)
+ + A complement is something that increases the WTP of a customer when bundled.  Think pop corn at movie.  People are willing to pay more for popcorn if there is a movie involved.
+ + Hardware/Software, Hotdogs/Ketchup.
+
+As a comany you want _substitutes__ to be as expensive as possible.  And you want you complements to be as cheap as possible.
+
+Stubhub is a substitue and a complement to ACE.
+
+### 2.4.4 Examples of Complements
++ Rum and Coke
++ Cars and Roads
++ Music and Smartphones
++ Printers and Printer Ink
+
+Michelin: Tire company that also produces travel guidebookss.
+ + Travel and tires are complementary.
+
+#### Cross Price Elasticity of Demand
+
+When two products are substitutes the cross price elasticity is positive.  When to products are complements then then cross price elasticity is negative.  If two products are unrelated then CPE is roughly 0.
+
+Cross Price Elasticity of Demand = (&Delta;Q<sub>A</sub>/Q<sub>A</sub>)/(&Delta;P<sub>B</sub>/P<sub>B</sub>)
