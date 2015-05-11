@@ -163,20 +163,19 @@ Case: NYT introduced Digital Paywall in 2011. They need to deterimine WTP of con
 
 Quality Pricing Circulation Strategy - Charge optimal amount that people are willing to pay for their print product. They charge $800 for year of subscription vs $400 at most for competitiors.
 
-    + iPad forced them to rethink their plan to launch pay model for online content.
-        + Plan for charing just for website content was no longer going to work due to nature of ipad.
-        + Needed to think about bundling all productions.
-    + MBB says: Needed to use conjoint analysis to figure out what consumers wanted most
+ + iPad forced them to rethink their plan to launch pay model for online content.
+  + Plan for charing just for website content was no longer going to work due to nature of ipad.
+  + Needed to think about bundling all productions.
+ + MBB says: Needed to use conjoint analysis to figure out what consumers wanted most
 
 One way you can test how customers value feature is to ask them to rank products that represent all available options
-    + This presents too many options
+ + This presents too many options
 
 There are two key elements of conjoint analysis.
 
-    + Pair-wise rankings: First, rather than ask a customer her preference across 27 (or more) different products, the conjoint approach requests a comparison only across two or three offerings at any one time.
-    + Infer values from rankings: Second, rather than asking a customer to fill out her dollar value for each feature-combination, in conjoint analysis we don’t even need to ask her that. Instead, we infer the dollar value she might assign to any product based on her rankings.
-
-    + When you create the matrix you assign value a wait, then u add the weight of the row and column.  This is known as the *part-worth*
+ + Pair-wise rankings: First, rather than ask a customer her preference across 27 (or more) different products, the conjoint approach requests a comparison only across two or three offerings at any one time.
+ + Infer values from rankings: Second, rather than asking a customer to fill out her dollar value for each feature-combination, in conjoint analysis we don’t even need to ask her that. Instead, we infer the dollar value she might assign to any product based on her rankings.
+ + When you create the matrix you assign value a wait, then u add the weight of the row and column.  This is known as the *part-worth*
 
 **Parts Worth** - an implied numeric value that users attach to each feature of a product.
 
@@ -252,3 +251,26 @@ Michelin: Tire company that also produces travel guidebookss.
 When two products are substitutes the cross price elasticity is positive.  When to products are complements then then cross price elasticity is negative.  If two products are unrelated then CPE is roughly 0.
 
 Cross Price Elasticity of Demand = (&Delta;Q<sub>A</sub>/Q<sub>A</sub>)/(&Delta;P<sub>B</sub>/P<sub>B</sub>)
+
+Historical Example: Until late 90's concerts more or less tracked inflation. After files sharing prices way out paced inflation.  So before 90s concerts where advertisements for CDs.  After file sharing, free music was the advertisement for concerts.
+
+As a manager one should always looks for complements.
+
+### 2.4.5 Strategy 3: Network Effect
+
+Networked Business - As the size of the network grows, it becomes more attractive to sellers or buyers.
+
+Platform Companies are networked business, and they achieve growth from the network affect.
+
+Companies that can exploit networks achieve rapid growths.
+
+Networking Effects are examples of increasing returns and virtuous circuits.  As your size increases the willingness to pay increases.
+
+#### Pricing for Network Effect
+
++ Network affected Markets are also known as winner take all markets due to the positive feedback inherent in the industry.  
++ To price in these sorts of markets you do the reverse of normal markets and price as possible since the future WTP depends on the number of existing users you want to capture as many users as possible.
+
+### 2.4.6 Creating Network Effects
+
++ Pokemon created network effect since they designed a game based around trading.
