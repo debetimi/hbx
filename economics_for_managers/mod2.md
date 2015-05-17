@@ -49,7 +49,7 @@ Different Auction Types
 
 **English Auctions** - English auctions are fairly effective at revealing WTP of all participants except the highest bidder
 
-    + With advanced knowledge a seller would start bidding right at the WTP of the eventual winner.
++ With advanced knowledge a seller would start bidding right at the WTP of the eventual winner.
 
 **Vickrey Auctions** - Effectively give you same result as English Auctions ~ sell at 2nd highest WTP.
 
@@ -75,7 +75,7 @@ Fixed Price better when certainty is demanded or there is no time constraint. Th
 
 If a seller knows WTP well, the will likely set a fixed price. If buyers WTP are far apart then fixed price is better.
 
- +  Auctions generate more revenue when WTP are relatively close together.
+ + Auctions generate more revenue when WTP are relatively close together.
  + Auctions are good fo old items, where WTP is likely to range and not well known.
 
 
@@ -120,12 +120,12 @@ This problem is known as *Identification*. Identifying whether or not demand or 
 
 ### 2.2.2 Experiments
 Have 3 days to sell ticket best guess for price is $100 but not confident? How do your price, $80, $100, $120?
-    + Price tickets high.  If nobody bites after a day then you know that $120 above the WTP and you can lower price. You've gained information about WTP.
-    + Pricing at $80 guarantees quick sales but you will leave money on the table. You've gained no new information about WTP.
-    + So basically you can *Price to Generate Revenues* or *Price to Generate Information*
+ + Price tickets high.  If nobody bites after a day then you know that $120 above the WTP and you can lower price. You've gained information about WTP.
+ + Pricing at $80 guarantees quick sales but you will leave money on the table. You've gained no new information about WTP.
+ + So basically you can *Price to Generate Revenues* or *Price to Generate Information*
 
 Question: What is better higher or lower conversion rates on Google?
-    + Answer: A high rate might indicate you are giving *too* good a deal and the customers are capturing benefit but you aren't.
+ + Answer: A high rate might indicate you are giving *too* good a deal and the customers are capturing benefit but you aren't.
 
 
 ### 2.2.3 Experiments: Design Principles
