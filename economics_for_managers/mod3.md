@@ -189,3 +189,9 @@ Netflix on the other hand had warehouses and mailed DVDs.  This means as they sc
 Fixed costs are endemic to business, as we’ve seen in this module so far. And, fixed costs create scale economies that benefit them. The larger you are, the more easily you can spread your fixed costs across more customers. As a result, your average costs are lower than rivals who are smaller.
 
 But, there are a few things to also keep in mind about fixed costs and “the mirage of scale”, as Larry Culp terms it. Fixed costs do not imply that larger is better. Size is oftentimes accompanied by bureaucracy or complacency—in turn resulting in negative scale economies. Finally, it’s also important to understand where fixed costs reside. If fixed costs operate largely at the local or regional market level, it doesn’t pay to be national or global. Doing so can have devastating consequences for a firm. Remember Bally's?
+
+### 3.5.5 Google vs Bing
+
+Market leader want high fixed costs so that the customers are un likely to switch to competitors.
+
+Followers want low fixed cost so customers can easily switch to their product.
