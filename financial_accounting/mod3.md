@@ -70,4 +70,46 @@ GAAP - Equity Section Last
 IFRS - Equity Listed Before Liabilities.
 
 ## 3.3 Income Statement
+### 3.3.1 Introduction
 
+Account Period is an amount of time for which a company is evaluating its financial performance.
+
+Financial Position (Balance Sheet) - Shows balance of all real accounts at a sincle point in time as of a specific date.  This is a snapshot of a point in time, similar to a photograph.  the balance sheet sometimes referred to as statement of financial position.
+
+Financial Performance (Income Statement) - Shows the accumulation of a nominal accounts over a period of time.  This is is analagous to a videoin contrast to a photo for the balance sheet. Income Statement sometimes referred to as statement of profit and loss or P&L.
+
+US Requires public companies to report financial statement quarter. Most other countries require bi-annual.
+
+Note: Balance on financial statements/income statements etc for Real Accounts are the value of the account at that instance, while nominal accounts list the amount accrued over that period.
+
+Closing Process - Transfers nominal accounts balance to retain earnings and resets nominal account balances to zero at the end of the accounting period.
+
+### 3.3.2 Gross Profit
+
+First section of income statement lists the gross profit.
+
+Gross Profit is sales - cost of sales.
+ + Shows if company is profitable at its most basic level.
+ + Many companies do not report a gross profit on income statement.
+    + Pepsi Co, Google
+
+### 3.3.3 Operating Income
+
+Operating Income = Gross Profit - Operating Expense
+
+### 3.3.4 Other Income and Expenses
+
+Incomes and Expenses that aren't in the usual course of business.
+  + Ex: A manufacturing company that also rents outs additional warehouse space.
+
+Income Before Taxes = Operating Income + Other Income - Other Expenses
+
+### 3.3.5 Net Income 
+
+Tax Expense = Income Before Taxes * Income Tax Rate
+
+Net Income = Income Before Taxes - Tax Expense = Income Before Taxes ( 1 - Income Tax Rate )
+
+### 3.3.6 Creating an Income Statement
+
+Retained earnings connects income statement to balance sheet.
