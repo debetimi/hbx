@@ -122,6 +122,8 @@ Deferred Tax accounts, whether they are liabilities or assets, always relate to 
 
 ### 4.5.3 Deffered Tax Assets
 
+Occur when Taxes Payable is Greater than Tax Expense due to timing difference.
+
 Deferred Tax assests indicates you pre-paid some amount of taxes that has not yet been reported as income on the income statement.
 
 Example: Bikram yoga recieves $300K prepayment for yoga class.  The 300K is immediately taxable, even tho the $300 is not recgonized as revenue on income statment meaning that taxable income might be higher than income before taxes
