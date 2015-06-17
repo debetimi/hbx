@@ -112,3 +112,44 @@ Prediction of Online Book Vending
  + Predicted that selling books online would reduce the market for traditional sellers since the supply increase would be large enough as to push the prices down enough to where brick and mortar was no longer a viable option
  + Productive availability exploded, but there was too much product leading to clutter.  Consumers couldn't find what they wanted online, or didnt know what was good, instead they went to the brick and mortars and purchased the books from authors with good brand recognition.
  + Changing the supply curve in this instance, had an affect on the demand curve.  Always consider both.
+
+### 4.3.2 Cigarette Taxes
+
+Mike Moore proposed excise tax on cigarettes as form of fine on companies.
+  + Although the intended effect is to greatly reduce the profits of cigarette companies, they pass the costs on to their consumers by simply shifting up the supply curve.
+
+**Economic Incidence** - The true burden of tax.
+
+The true incidence of any tax is just the elasticity of the supply and demand curves.
+
+More inelastic supply and demand curves means the tax has more effect on both consumers and producers respectively.
+
+There is difference betwee the _legal_ or _statuatory_ incidence and the true incidence of taxes.
+
+### 4.3.3 Exchange Rates
+
+What drives the demand for foreign currency?
+
+Example: TI planned to increase number of imported semiconductors it imported from China.  To do so, it needs to buy from Chinese producers in RMB or CNY the Chinese currency. This increases demand in CNY/USD market.
+
+Who supplies the RMB?
+
+Possibly a Chinese firm looking to import US goods.  If the Chinese and Americans have a _balanced trade_ these sources of demand cancel out.  There should be equal values of CNY and USD to trade.
+
+Why are speed limits not 10 MPH on highway
+ + We know that lower speed limits reduces accidents but we make a trade of between our willingness to pay for preventing accidents and the cost of driving slower.
+ + We don't reduce speed limit to the level where accident rates are minimized, but to the where the benefit and cost of changing it are equalized.  Equilibrium
+
+### 4.3.4 The China Growth Miracle
+
++ In order to stimulate growth, China's central banks began offering low interest loans. Since the capital is subsidized, it increases the gains from hirign additional workers.
+
++ China joined the WTO which doesn't allow protecting industries by providing subsidized loans. How could they continue to allow growth?
+ + From the exchange rate we understand that if exchange rate is higher then products from that country look cheaper.
+ + China should want to hold their currency down. They do this by purchasing a lot of american goods.
+
+ + China start purchasing bonds. The keeps US interest rates low since Chinese capital is flooding into buy the bonds.  This eventually produces the property boom in the united states.
+
+## 4.4 Creating Markets
+
+Can create markets for anything.  Price reflects expected return of securities.
