@@ -88,7 +88,7 @@ First list cash paid to purchase long lived assets then list cash received throu
 
 ### 5.4.2 Financing Acitivies
 
-Capital Injections, Payment of Dividends, Repayment of Prinicipal, Repurchases of Stock
+Capital Injections, Payment of Dividends, Repayment of Prinicipal, Repurchases of Stock, issuing stocks bonds
 
 ## 5.5 Review
 
@@ -112,7 +112,7 @@ Operating: Negative
 
 Investing: Negative
 
-Finacing: Could be either, usually negative
+Finacing: Could be either - often positive as startup needs money
 
 
 ### 5.6.3 Profitable/Growing Stage
