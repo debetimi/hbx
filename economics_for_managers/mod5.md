@@ -1,6 +1,6 @@
 # Module 5 - Competition and Differentiation
 
-## 5.1 Pricing By Monopoly
+## 5.1 Pricing By Monopoly: The Pricing of Epogen
 
 ### 5.1.1 Module Introduction
 
@@ -100,3 +100,95 @@ Coupons are a good example of price discrimination. Some customers throw away co
 Airlines - Couch vs Airlines.  Business Travelers generally have a higher WTP than vacation travelers.  Airlines would like to charge business travels more, but they can't know in advance who is a business traveler and who isn't.  So they design two differnt products, Coach and Business class, and let customers self select.
 
 _Second-degree price discrimination_ - When customer self select into a product offering.
+
+### 5.2.5 Bundled Pricing: Part I
+
+Bundled Pricing - Pricing different products together.
+
+Excersize:
++ 1 Journalist, 1 Analyst
++ Journalist: $10 WTP word : $2 WTP Excel
++ Analyst: $2 WTP word : $10 WTP Excel
++ Marginal Cost is 0
+
+Perfect Price Discrimination: you charge each their WTP for respective item. 
+ + Profit: $24
+
+Single Price Monopoly Pricing: Charge $10 for each
+ + Profit: $20
+
+Bundling: Charge 12 for the combo
+ + Profit: $24
+
+### 5.2.6 Bundled Pricing: Part II
+
+When there is negative corellation across customers, bundling is very effective.
+
+Looking at customers by preference for individual products, and they look very differnt.  However look for customers WTP for the bundle and they begin to look much smoother.
+
+## 5.3 Simple Strategies for Differentiation: The Entry Strategy of Bonobos
+
+### 5.3.1 Differentiating in Apparel Retailing
+
+Most companies don't exist in perfect competition or monopoly.  Most companies exist in between and work on differentiation.
+
+Question: Would you rather be different or similar to your main competitor?  And if you were to be different where would you be different.
+
+Brand or Channel
+
+Brand vs Retail: You have your brand or you sell many brands. (Upstream or Downstream)
+
+Channel: Brick and Mortar vs Online
+
+Vertical Retailing:
++ You sell your own brand.
+
+### 5.3.3 When Competitive Similarity Pays
+
+Pizza Example: It pays to be similar if you customers do not care to differentiate between you and a competitor and just do what is most convenient. For example two pizza shops on the beach -- customers go to the closer one.
+
+### 5.3.4 Competing on Prices: Action and Reaction
+
+What happens if you place truck at same spot as pizza restaurant:
+ + Price competition until prices are set at variable cost.
+ + Since you two pizza-slingers are identical—same product in the same location—the inevitable price war leaves both of you with no profits.
+
+When thinking about differentiating think about if what you are doing can be responded to quickly by your competitors.  If competitors can react quickly, even though you created this new value, you wont get to capture it all.
+
+### 5.3.5 The Benefits of Differentiation
+
+If you lower prices and gain customers, you lose profits on inframarginal customers.
+
+### 5.3.6 Where and How to Differentiate
+
+In the pizza example, differentiation on location protects them from price competition.  When the pizza shops are co-located prices are driven to marginal.  However when they are located in different spots, then they can charge higher prices.
+
+*Competitive Advantage requires differentiation.*
+ + The key question to answer is _where_ do you want to be different.
+  + What to be differnt on things that really matter to your customers or suppliers.
+
+
+### 5.3.7 Choosing Prices and Locations
+### 5.3.8 The Competitive Strategy of Bonobos
++ The went after mens market as the primary market
+
+Who is their customer
+ + 25 - 50
+ + Favorite Brand: Hugo Boss
+ + Favorite Movie: Shawshank, The Godfather
+
+How did they differentiate
+ + Offered lots of different sizes and cuts, odd waist sizes and 3 differnt inseams.
+ + This works because you can come in and try clothes, but you dont have to stock it.
+
+Bonobos: fit, service, fun
+ + Great customer service
+ + 1:1 Appointment when you come in and shop
+ + Customized fit
+
+Bonobos: Bundle
+ + Clothes & Experiences of buying clothes.
+
+Kindle vs Sony e-reader
++ what made the kindle more popular was the fact that you could download wirelessly. 
+ + A better purchasing experience was the key differenetiator.
