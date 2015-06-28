@@ -191,4 +191,4 @@ Bonobos: Bundle
 
 Kindle vs Sony e-reader
 + what made the kindle more popular was the fact that you could download wirelessly. 
- + A better purchasing experience was the key differenetiator.
+ + A better purchasing experience was the key differentiator.

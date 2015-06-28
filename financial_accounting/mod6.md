@@ -12,7 +12,7 @@ When using rations that included both balance sheet and income statement amounts
 Return on Equity = Net Income/Owners Equity
 
 **DuPont Framework** 
- + Return on Equity  =  Profitability *  Efficiency * Leverage
+ + Return on Equity  =  Profitability x  Efficiency x Leverage
  + Profitability - Measured using Profit Margin
   + Profit Margin = Net Income/Sales
  + Efficiency - Measured using Asset Turnover
