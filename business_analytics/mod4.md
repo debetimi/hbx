@@ -77,6 +77,8 @@ To check whether there isn't a relationship, check whether a slopes regression l
 
 Take the residuals and plot them.  The resulting distribution should be normally distributed with same variances, it should appear random.  If there is a pattern amongst residuals that indicates that linear approximation might not be best fit.
 
+heteroskedasticity - when the residuals terms vary with one or more of the indepent variables.  when the is a correlation between error and a variable.
+
 
 ## 4.5 Performing Regression Analysis 
 

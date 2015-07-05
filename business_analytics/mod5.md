@@ -46,3 +46,25 @@ As with single variable regression look at the p values, and the standard errors
 
 ## 5.4 Performing Multiple Regression Analysis
 ### 5.4.1 Multiple Regression Analysis in Excel
+Same as single var.
+
+
+### 5.5.1 Multicollinearity
+
+**Multicollinearity** - Multicollinearity occurs when two independent variables are so highly correlated that it is difficult for the regression model to separate the effect each variable has on the dependent variable. 
+
+Usually not an issue if only using regression for predictions.
+
+If a variable that was significant because insignificant when added to another analysis.  Then that means there is some collinearity, meaning there is a corellation between that variable and other variable.
+ + For example in the Boston example, if you add lot size, the lot size is not significant.
+ + However, the lot size does improve the R^2
+
+When dealing with collinearity, one has to decided wether or not to remove coliner variables. In the house price, we would prefer to keep lot size because lot size should have an effect on house price that is different from house size even though they are related.
+
+### 5.5.2 Dummy Variables
+When assigning dummy variables you have to have 1 fewer than the number of options in the category.  For example days of the week, you can have at most 6 dummy variables.
+
+### 5.5.3 Lagged Variables
+
+Lagged Variables - Sometimes the effect of a variable from a previous year affects the dependent variable of this year.  Using this u can add a lagged value.  However by doing this you have to reduce the number of observations you can use because the first row wont have a lagged value.
+
