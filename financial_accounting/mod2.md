@@ -74,7 +74,7 @@ T-Accounts are used to show the debit and credit of single account over time. Th
 Example: Utility Expense
 
 ||Debit|Credit|
-|:-|:-|:-|
+|:--|:--|:--|
 |Begining Balance | 4250 ||
 |06/03/2013| 900 | |
 |Ending Balance| 3350 ||
