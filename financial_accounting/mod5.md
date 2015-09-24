@@ -27,7 +27,7 @@ Three sections of a statement of cash flows
 
 Key Difference in GAAP and IFRS
 
-||US GAAP|IFRS|
+|-|US GAAP|IFRS|
 |:-|:--:|:--:|
 |Interest Paid| Operating | Operating or Financing |
 |Dividends Paid | Financing | Operating or Financing |
